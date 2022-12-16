@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhlegmaticOne.OperationResults.Mediatr", "PhlegmaticOne.OperationResults.Mediatr\PhlegmaticOne.OperationResults.Mediatr.csproj", "{47737318-2125-4CE8-9047-EC12E89E505B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47737318-2125-4CE8-9047-EC12E89E505B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47737318-2125-4CE8-9047-EC12E89E505B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47737318-2125-4CE8-9047-EC12E89E505B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47737318-2125-4CE8-9047-EC12E89E505B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5328477A-A808-462C-B128-DF89ADDE9A0A}
+	EndGlobalSection
+EndGlobal
